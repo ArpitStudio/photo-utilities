@@ -10,6 +10,7 @@ module.exports = {
         '4/6': '4/6',
         '6/4': '6/4',
       },
+      
     },
     colors: {
       transparent: "transparent",
